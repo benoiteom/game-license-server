@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Battlefield 2042",
+        "copyright": "copyright free",
+        "details": "All songs used are owned by the creator of the game and are therefore free to be used in any streams or games.",
+        "genre": "FPS",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#144e53",
+        "developer": "DICE"
+    },
+    {
+        "name": "test1",
+        "copyright": "unsure",
+        "details": "There is a song during the something scene which contains music by blank and is copyrighted.",
+        "genre": "Adventure",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#144e53",
+        "developer": "DICE"
+    },
+    {
+        "name": "test two",
+        "copyright": "unsure",
+        "details": "There is a song during the something scene which contains music by blank and is copyrighted.",
+        "genre": "Adventure",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#144e53",
+        "developer": "DICE"
+    },
+    {
+        "name": "test two three",
+        "copyright": "unsure",
+        "details": "There is a song during the something scene which contains music by blank and is copyrighted.",
+        "genre": "Adventure",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#144e53",
+        "developer": "DICE"
+    },
+    {
+        "name": "test three",
+        "copyright": "unsure",
+        "details": "There is a song during the something scene which contains music by blank and is copyrighted.",
+        "genre": "Adventure",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#144e53",
+        "developer": "DICE"
+    },
+    {
+        "name": "test four",
+        "copyright": "unsure",
+        "details": "There is a song during the something scene which contains music by blank and is copyrighted.",
+        "genre": "Adventure",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#144e53",
+        "developer": "DICE"
+    },
+    {
+        "name": "test_game",
+        "copyright": "none",
+        "genre": "FPS",
+        "details": "",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#144e53"
+    },
+    {
+        "name": "test_game",
+        "copyright": "none",
+        "genre": "FPS",
+        "details": "",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#144e53"
+    },
+    {
+        "name": "Back 4 Blood",
+        "copyright": "not copyright free",
+        "genre": "Shooter",
+        "details": "There is a scene during regular gameplay where the characters must defend a building accompanied by a jukebox. This jukebox plays a random song from a list of copyrighted options. This can be avoided by turning off SFX audio in the game's settings for the scene. Source: https://twitter.com/missalissabarry/status/1446105042608480259",
+        "image": "https://firebasestorage.googleapis.com/v0/b/passive-1642.appspot.com/o/Battlefield.png?alt=media&token=8072e2d7-9a09-466f-ac4c-655a50d951b7",
+        "color": "#A89120",
+        "developer": "Turtle Rock Studios"
+    }
+]
